@@ -1,0 +1,3 @@
+Year DOY ICI Longitude Latitude
+2024 1 40.7 116.4 39.9
+2024 60 65.0 -75.2 40.1
