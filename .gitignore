@@ -1,0 +1,9 @@
+/reconstruct
+/reconstruct.exe
+/build*/
+/output/
+/*.zip
+*.tmp
+__pycache__/
+*.pyc
+*.local.json
